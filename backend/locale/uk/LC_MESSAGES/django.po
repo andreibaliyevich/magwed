@@ -1,0 +1,1203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-09 20:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: accounts/admin.py:14 accounts/models.py:123
+msgid "Date joined"
+msgstr "Дата реєстрації"
+
+#: accounts/admin.py:19
+msgid "Last 3 days"
+msgstr "Останні 3 дні"
+
+#: accounts/admin.py:20 notifications/admin.py:14
+msgid "Last week"
+msgstr "Останній тиждень"
+
+#: accounts/admin.py:21 notifications/admin.py:15
+msgid "Last month"
+msgstr "Останній місяць"
+
+#: accounts/admin.py:22
+msgid "Last 6 months"
+msgstr "Останні 6 місяців"
+
+#: accounts/admin.py:23
+msgid "Last year"
+msgstr "Останній рік"
+
+#: accounts/admin.py:24
+msgid "More year"
+msgstr "Більше року"
+
+#: accounts/admin.py:71
+msgid "Personal info"
+msgstr "Персональна інформація"
+
+#: accounts/admin.py:80
+msgid "Permissions"
+msgstr "Права доступу"
+
+#: accounts/admin.py:89
+msgid "Important dates"
+msgstr "Важливі дати"
+
+#: accounts/apps.py:8
+msgid "Accounts"
+msgstr "Облікові записи"
+
+#: accounts/choices.py:6
+msgid "Administrator"
+msgstr "Адміністратор"
+
+#: accounts/choices.py:7 accounts/models.py:203
+msgid "Customer"
+msgstr "Клієнт"
+
+#: accounts/choices.py:8 accounts/models.py:307
+msgid "Organizer"
+msgstr "Організатор"
+
+#: accounts/choices.py:12
+msgid "Photographer"
+msgstr "Фотограф"
+
+#: accounts/choices.py:13
+msgid "Videographer"
+msgstr "Відеооператор"
+
+#: accounts/choices.py:14
+msgid "Leading"
+msgstr "Провідний"
+
+#: accounts/choices.py:15
+msgid "Musician"
+msgstr "Музикант"
+
+#: accounts/choices.py:16
+msgid "DJ"
+msgstr "Діджей"
+
+#: accounts/choices.py:17
+msgid "Agency"
+msgstr "Агентство"
+
+#: accounts/choices.py:18
+msgid "Salon"
+msgstr "Салон"
+
+#: accounts/choices.py:19
+msgid "Confectionery"
+msgstr "Кондитерська"
+
+#: accounts/choices.py:20
+msgid "Decorator"
+msgstr "Декоратор"
+
+#: accounts/choices.py:21
+msgid "Visagiste"
+msgstr "Візажист"
+
+#: accounts/choices.py:22
+msgid "Hairdresser"
+msgstr "Перукар"
+
+#: accounts/choices.py:24 blog/choices.py:15
+msgid "(Unknown)"
+msgstr "(Невідомо)"
+
+#: accounts/managers.py:23
+msgid "The Username must be set."
+msgstr "Ім'я користувача має бути встановлене."
+
+#: accounts/managers.py:26
+msgid "The Email must be set."
+msgstr "Електронна пошта має бути встановлена."
+
+#: accounts/managers.py:29
+msgid "Invalid user type."
+msgstr "Неприпустимий тип користувача."
+
+#: accounts/models.py:39
+msgid "A user with that username already exists."
+msgstr "Користувач із таким username вже існує."
+
+#: accounts/models.py:42
+msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+msgstr "Потрібно. 150 символів або менше. Тільки літери, цифри та @/./+/-/_."
+
+#: accounts/models.py:45
+msgid "Username"
+msgstr "Username"
+
+#: accounts/models.py:50
+msgid "A user with that email address already exists."
+msgstr "Користувач із такою адресою електронної пошти вже існує."
+
+#: accounts/models.py:52 support/models.py:22
+msgid "Email address"
+msgstr "Адреса електронної пошти"
+
+#: accounts/models.py:57
+msgid "User type"
+msgstr "Тип користувача"
+
+#: accounts/models.py:60 main/models.py:165 messenger/models.py:63
+msgid "Name"
+msgstr "Ім'я"
+
+#: accounts/models.py:70 accounts/models.py:249 main/models.py:127
+#: messenger/models.py:73
+#, python-format
+msgid ""
+"Upload JPG or PNG image. Required minimum of size %(width)d x %(height)d."
+msgstr ""
+"Завантажте зображення у форматі JPG або PNG. Необхідний мінімальний розмір "
+"%(width)d x %(height)d."
+
+#: accounts/models.py:76
+msgid "Avatar"
+msgstr "Аватар"
+
+#: accounts/models.py:84 main/models.py:56 main/models.py:73
+msgid "Country"
+msgstr "Країна"
+
+#: accounts/models.py:91 main/models.py:80
+msgid "City"
+msgstr "Місто"
+
+#: accounts/models.py:99
+msgid "Wrong format!"
+msgstr "Неправильний формат!"
+
+#: accounts/models.py:102
+msgid "Phone"
+msgstr "Телефон"
+
+#: accounts/models.py:108
+msgid "Designates whether the user can log into this admin site."
+msgstr "Визначає, чи користувач може увійти на цей сайт адміністратора."
+
+#: accounts/models.py:110
+msgid "Staff status"
+msgstr "Статус персоналу"
+
+#: accounts/models.py:115
+msgid ""
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
+msgstr ""
+"Вказує, чи слід вважати цього користувача активним. Скасуйте вибір замість "
+"видалення облікових записів."
+
+#: accounts/models.py:118
+msgid "Active"
+msgstr "Активний"
+
+#: accounts/models.py:144 accounts/models.py:160 accounts/models.py:194
+#: accounts/models.py:232 reviews/models.py:20 social/models.py:21
+#: social/models.py:61 social/models.py:93
+msgid "User"
+msgstr "Користувач"
+
+#: accounts/models.py:145
+msgid "Users"
+msgstr "Користувачі"
+
+#: accounts/models.py:163
+msgid "Device UUID"
+msgstr "Ідентифікатор пристрою"
+
+#: accounts/models.py:164
+msgid "Online"
+msgstr "Онлайн"
+
+#: accounts/models.py:168
+msgid "First login"
+msgstr "Перший вхід"
+
+#: accounts/models.py:172
+msgid "Last visit"
+msgstr "Останнє відвідування"
+
+#: accounts/models.py:176
+msgid "Connection History"
+msgstr "Історія підключення"
+
+#: accounts/models.py:177
+msgid "Connection Histories"
+msgstr "Історії підключень"
+
+#: accounts/models.py:199
+msgid "Date of Wedding"
+msgstr "Дата весілля"
+
+#: accounts/models.py:204
+msgid "Customers"
+msgstr "Клієнти"
+
+#: accounts/models.py:213
+msgid "Identifier"
+msgstr "Ідентифікатор"
+
+#: accounts/models.py:220
+msgid "Role of Organizer"
+msgstr "Роль організатора"
+
+#: accounts/models.py:221
+msgid "Roles of Organizers"
+msgstr "Ролі організаторів"
+
+#: accounts/models.py:237
+msgid "Roles"
+msgstr "Ролі"
+
+#: accounts/models.py:255
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: accounts/models.py:257 blog/models.py:73 blog/models.py:139
+#: portfolio/models.py:40 portfolio/models.py:155
+msgid "Description"
+msgstr "Опис"
+
+#: accounts/models.py:262 main/models.py:57
+msgid "Countries"
+msgstr "Країни"
+
+#: accounts/models.py:267 main/models.py:81
+msgid "Cities"
+msgstr "Міста"
+
+#: accounts/models.py:272 main/models.py:99
+msgid "Languages"
+msgstr "Мови"
+
+#: accounts/models.py:280
+msgid "Cost of work"
+msgstr "Вартість роботи"
+
+#: accounts/models.py:281
+msgid "Please enter in USD ($)"
+msgstr "Будь ласка, введіть у доларах США ($)"
+
+#: accounts/models.py:285
+msgid "Number of hours"
+msgstr "Кількість годин"
+
+#: accounts/models.py:288
+msgid "Website"
+msgstr "Інтернет сайт"
+
+#: accounts/models.py:292
+msgid "Profile URL"
+msgstr "URL профілю"
+
+#: accounts/models.py:299 portfolio/models.py:61 portfolio/models.py:176
+#: reviews/models.py:31
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: accounts/models.py:303
+msgid "Pro-account valid time"
+msgstr "Термін дії Pro-акаунта"
+
+#: accounts/models.py:308
+msgid "Organizers"
+msgstr "Організатори"
+
+#: accounts/permissions.py:8
+msgid "Only organizers have permission."
+msgstr "Дозвіл є лише у організаторів."
+
+#: accounts/serializers.py:40 accounts/serializers.py:116
+#: accounts/serializers.py:162
+msgid "Password fields did not match."
+msgstr "Поля пароля не співпадають."
+
+#: accounts/serializers.py:85 accounts/serializers.py:150
+msgid "Invalid user uuid or user does not exist."
+msgstr "Неприпустимий ідентифікатор користувача або користувач не існує."
+
+#: accounts/serializers.py:91 accounts/serializers.py:156
+msgid "Invalid token for given user."
+msgstr "Неприпустимий токен для користувача."
+
+#: accounts/serializers.py:110 accounts/serializers.py:272
+msgid "Invalid current password."
+msgstr "Неправильний поточний пароль."
+
+#: accounts/serializers.py:129
+msgid "User with given email does not exist."
+msgstr "Користувач із вказаною адресою електронної пошти не існує."
+
+#: accounts/views.py:101
+msgid "Stale token for given user."
+msgstr "Застарілий токен для цього користувача."
+
+#: accounts/views.py:138
+msgid "The user does not have a password."
+msgstr "Користувач не має пароля."
+
+#: blog/admin.py:43 blog/models.py:58 main/models.py:133 messenger/models.py:79
+#: portfolio/admin.py:30 portfolio/admin.py:68 portfolio/models.py:27
+#: portfolio/models.py:102
+msgid "Image"
+msgstr "Зображення"
+
+#: blog/admin.py:46 portfolio/admin.py:33 portfolio/admin.py:80
+msgid "Info"
+msgstr "Інформація"
+
+#: blog/admin.py:65 blog/admin.py:76 messenger/admin.py:42
+#: portfolio/admin.py:45 portfolio/admin.py:91
+msgid "Preview"
+msgstr "Відгук"
+
+#: blog/apps.py:8
+msgid "Blog"
+msgstr "Блог"
+
+#: blog/choices.py:6
+msgid "Design"
+msgstr "Дизайн"
+
+#: blog/choices.py:7
+msgid "Fashion"
+msgstr "Мода"
+
+#: blog/choices.py:8
+msgid "Inspiration"
+msgstr "Натхнення"
+
+#: blog/choices.py:9
+msgid "Journey"
+msgstr "Подорож"
+
+#: blog/choices.py:10
+msgid "Lifestyle"
+msgstr "Стиль життя"
+
+#: blog/choices.py:11
+msgid "Photography"
+msgstr "Світлина"
+
+#: blog/choices.py:12
+msgid "Technology"
+msgstr "Технології"
+
+#: blog/choices.py:13
+msgid "Wedding"
+msgstr "Весілля"
+
+#: blog/models.py:20 main/models.py:24 main/models.py:49 main/models.py:67
+#: main/models.py:91
+msgid "Code"
+msgstr "Код"
+
+#: blog/models.py:27
+msgid "Category"
+msgstr "Категорія"
+
+#: blog/models.py:28 blog/models.py:49
+msgid "Categories"
+msgstr "Категорії"
+
+#: blog/models.py:44 comments/models.py:28 messenger/models.py:106
+#: portfolio/models.py:24 portfolio/models.py:91 reviews/models.py:26
+msgid "Author"
+msgstr "Автор"
+
+#: blog/models.py:52 blog/models.py:136 main/models.py:111
+#: portfolio/models.py:39 portfolio/models.py:153
+msgid "Title"
+msgstr "Назва"
+
+#: blog/models.py:53 main/models.py:112
+msgid "Slug"
+msgstr "Слаг"
+
+#: blog/models.py:57
+msgid "Required minimum of size 1500 x 300."
+msgstr "Необхідний мінімум розміру 1500 х 300."
+
+#: blog/models.py:68 portfolio/models.py:36 portfolio/models.py:111
+msgid "Thumbnail"
+msgstr "Ескіз"
+
+#: blog/models.py:75 blog/models.py:141 comments/models.py:31
+msgid "Content"
+msgstr "Зміст"
+
+#: blog/models.py:76 main/models.py:177 portfolio/models.py:41
+#: portfolio/models.py:156
+msgid "Tags"
+msgstr "Теги"
+
+#: blog/models.py:81 main/models.py:146
+msgid "Published at"
+msgstr "Опубліковано в"
+
+#: blog/models.py:85 portfolio/models.py:51 portfolio/models.py:166
+msgid "Count of views"
+msgstr "Кількість переглядів"
+
+#: blog/models.py:111 blog/models.py:128
+msgid "Article"
+msgstr "Стаття"
+
+#: blog/models.py:112
+msgid "Articles"
+msgstr "Статті"
+
+#: blog/models.py:133 main/models.py:98
+msgid "Language"
+msgstr "Мова"
+
+#: blog/models.py:144
+msgid "Article Translation"
+msgstr "Переклад статті"
+
+#: blog/models.py:145
+msgid "Article Translations"
+msgstr "Переклади статей"
+
+#: blog/models.py:162 main/models.py:140
+msgid "File"
+msgstr "Файл"
+
+#: blog/models.py:165
+msgid "Image of Blog"
+msgstr "Зображення блогу"
+
+#: blog/models.py:166
+msgid "Images of Blog"
+msgstr "Зображення блогу"
+
+#: blog/views.py:68
+msgid "Form not valid!"
+msgstr "Форма недійсна!"
+
+#: comments/apps.py:8 comments/models.py:51
+msgid "Comments"
+msgstr "Коментарі"
+
+#: comments/models.py:36 main/models.py:169 messenger/models.py:117
+#: notifications/models.py:43 portfolio/models.py:46 reviews/models.py:38
+#: social/models.py:34 social/models.py:67 social/models.py:103
+#: support/models.py:28 support/models.py:59
+msgid "Created at"
+msgstr "Створено в"
+
+#: comments/models.py:40 messenger/models.py:121 reviews/models.py:42
+msgid "Updated at"
+msgstr "Оновлено у"
+
+#: comments/models.py:50 reviews/models.py:33 support/models.py:23
+#: support/models.py:55
+msgid "Comment"
+msgstr "Коментарій"
+
+#: comments/permissions.py:7 reviews/permissions.py:7
+msgid "Only author have permission."
+msgstr "Дозвіл є лише у автора."
+
+#: comments/serializers.py:85 social/serializers.py:75
+#: support/serializers.py:43
+msgid "Invalid content type."
+msgstr "Неприпустимий тип контенту."
+
+#: comments/serializers.py:92 social/serializers.py:82
+#: support/serializers.py:50
+msgid "Object does not exist."
+msgstr "Об'єкта не існує."
+
+#: comments/serializers.py:105
+msgid "Failed to create comment."
+msgstr "Не вдалося створити коментар."
+
+#: main/apps.py:8
+msgid "Main app"
+msgstr "Основний додаток"
+
+#: main/choices.py:6
+msgid "United States Dollar"
+msgstr "Долар США"
+
+#: main/choices.py:7
+msgid "Euro"
+msgstr "Євро"
+
+#: main/choices.py:8
+msgid "Russian Ruble"
+msgstr "Російський рубль"
+
+#: main/choices.py:9
+msgid "Belarusian Ruble"
+msgstr "Білоруський рубль"
+
+#: main/choices.py:10
+msgid "Ukrainian Hryvnia"
+msgstr "Українська гривня"
+
+#: main/choices.py:14
+msgid "Belarus"
+msgstr "Білорусь"
+
+#: main/choices.py:15
+msgid "Russia"
+msgstr "Росія"
+
+#: main/choices.py:16
+msgid "Ukraine"
+msgstr "Україна"
+
+#: main/choices.py:20
+msgid "Brest (BY)"
+msgstr "Брест (BY)"
+
+#: main/choices.py:21
+msgid "Minsk (BY)"
+msgstr "Мінськ (BY)"
+
+#: main/choices.py:23
+msgid "Moscow (RU)"
+msgstr "Москва (RU)"
+
+#: main/choices.py:24
+msgid "Saint Petersburg (RU)"
+msgstr "Санкт-Петербург (RU)"
+
+#: main/choices.py:26
+msgid "Kyiv (UA)"
+msgstr "Київ (UA)"
+
+#: main/choices.py:27
+msgid "Odesa (UA)"
+msgstr "Одеса (UA)"
+
+#: main/choices.py:31
+msgid "Belarusian"
+msgstr "Білоруська"
+
+#: main/choices.py:32
+msgid "English"
+msgstr "Англійська"
+
+#: main/choices.py:33
+msgid "French"
+msgstr "Французька"
+
+#: main/choices.py:34
+msgid "German"
+msgstr "Німецька"
+
+#: main/choices.py:35
+msgid "Polish"
+msgstr "Польська"
+
+#: main/choices.py:36
+msgid "Portuguese"
+msgstr "Португальська"
+
+#: main/choices.py:37
+msgid "Russian"
+msgstr "Російська"
+
+#: main/choices.py:38
+msgid "Ukrainian"
+msgstr "Українська"
+
+#: main/models.py:31
+msgid "Conversion rate"
+msgstr "Курс конверсії"
+
+#: main/models.py:38
+msgid "Currency"
+msgstr "Валюта"
+
+#: main/models.py:39
+msgid "Currencies"
+msgstr "Валюти"
+
+#: main/models.py:153
+msgid "Magazine"
+msgstr "Журнал"
+
+#: main/models.py:154
+msgid "Magazines"
+msgstr "Журнали"
+
+#: main/models.py:176
+msgid "Tag"
+msgstr "Тег"
+
+#: main/serializers.py:47
+msgid "Invalid data."
+msgstr "Невірні данні."
+
+#: main/validators.py:11
+#, python-format
+msgid ""
+"Error! Size of your image: %(width)d x %(height)d. Required minimum "
+"%(min_width)d x %(min_height)d."
+msgstr ""
+"Помилка! Розмір зображення: %(width)d x %(height)d. Потрібно мінімум "
+"%(min_width)d x %(min_height)d."
+
+#: messenger/apps.py:8
+msgid "Messenger"
+msgstr "Месенджер"
+
+#: messenger/choices.py:6
+msgid "Dialog"
+msgstr "Діалог"
+
+#: messenger/choices.py:7
+msgid "Group"
+msgstr "Група"
+
+#: messenger/choices.py:11
+msgid "Text"
+msgstr "Текст"
+
+#: messenger/choices.py:12
+msgid "Images"
+msgstr "Зображення"
+
+#: messenger/choices.py:13
+msgid "Files"
+msgstr "Файли"
+
+#: messenger/models.py:24
+msgid "Chat type"
+msgstr "Тип чату"
+
+#: messenger/models.py:29
+msgid "Members"
+msgstr "Члени"
+
+#: messenger/models.py:38
+msgid "Last message"
+msgstr "Останнє повідомлення"
+
+#: messenger/models.py:42 messenger/models.py:54 messenger/models.py:100
+msgid "Chat"
+msgstr "Чат"
+
+#: messenger/models.py:43
+msgid "Chats"
+msgstr "Чати"
+
+#: messenger/models.py:60
+msgid "Owner"
+msgstr "Власник"
+
+#: messenger/models.py:83
+msgid "Group Chat"
+msgstr "Груповий чат"
+
+#: messenger/models.py:84
+msgid "Group Chats"
+msgstr "Групові чати"
+
+#: messenger/models.py:111
+msgid "Message type"
+msgstr "Тип повідомлення"
+
+#: messenger/models.py:128
+msgid "Viewed by"
+msgstr "Переглянуто"
+
+#: messenger/models.py:132 messenger/models.py:144 messenger/models.py:165
+#: messenger/models.py:189
+msgid "Message"
+msgstr "Повідомлення"
+
+#: messenger/models.py:133
+msgid "Messages"
+msgstr "Повідомлення"
+
+#: messenger/models.py:146
+msgid "Text content"
+msgstr "Текстовий вміст"
+
+#: messenger/models.py:149
+msgid "Text Message"
+msgstr "Текстове повідомлення"
+
+#: messenger/models.py:150
+msgid "Text Messages"
+msgstr "Текстові повідомлення"
+
+#: messenger/models.py:169
+msgid "Image content"
+msgstr "Зміст зображення"
+
+#: messenger/models.py:173
+msgid "Image Message"
+msgstr "Зображення повідомлення"
+
+#: messenger/models.py:174
+msgid "Image Messages"
+msgstr "Зображення повідомлень"
+
+#: messenger/models.py:193
+msgid "File content"
+msgstr "Вміст файлу"
+
+#: messenger/models.py:197
+msgid "File Message"
+msgstr "Файлове повідомлення"
+
+#: messenger/models.py:198
+msgid "File Messages"
+msgstr "Файлові повідомлення"
+
+#: messenger/permissions.py:8
+msgid "This chat is not a group chat."
+msgstr "Цей чат не є груповим."
+
+#: messenger/permissions.py:16
+msgid "You cannot delete this chat."
+msgstr "Ви не можете видалити цей чат."
+
+#: messenger/views.py:210
+msgid "Not found."
+msgstr "Не знайдено."
+
+#: notifications/admin.py:8
+msgid "Date created"
+msgstr "Дата створення"
+
+#: notifications/admin.py:13
+msgid "Last day"
+msgstr "Останній день"
+
+#: notifications/admin.py:16
+msgid "More month"
+msgstr "Більше місяця"
+
+#: notifications/apps.py:8 notifications/models.py:49
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: notifications/choices.py:6
+msgid "New follow"
+msgstr "Новий передплатник"
+
+#: notifications/choices.py:7
+msgid "New article"
+msgstr "Нова стаття"
+
+#: notifications/choices.py:8
+msgid "New album"
+msgstr "Новий альбом"
+
+#: notifications/choices.py:9
+msgid "New photo"
+msgstr "Нове фото"
+
+#: notifications/choices.py:10
+msgid "Like of album"
+msgstr "Лайк альбому"
+
+#: notifications/choices.py:11
+msgid "Like of photo"
+msgstr "Лайк фото"
+
+#: notifications/choices.py:12
+msgid "New comment"
+msgstr "Новий коментар"
+
+#: notifications/choices.py:13
+msgid "New review"
+msgstr "Новий відгук"
+
+#: notifications/choices.py:14
+msgid "New message"
+msgstr "Нове повідомлення"
+
+#: notifications/models.py:22
+msgid "Initiator"
+msgstr "Ініціатор"
+
+#: notifications/models.py:28
+msgid "Recipient"
+msgstr "Одержувач"
+
+#: notifications/models.py:33
+msgid "Reason"
+msgstr "Причина"
+
+#: notifications/models.py:45
+msgid "Viewed"
+msgstr "Переглянуто"
+
+#: notifications/models.py:48
+msgid "Notification"
+msgstr "Сповіщення"
+
+#: portfolio/admin.py:36 portfolio/admin.py:83 social/apps.py:8
+msgid "Social"
+msgstr "Соціальне"
+
+#: portfolio/admin.py:71
+msgid "Photo details"
+msgstr "Деталі фото"
+
+#: portfolio/apps.py:8
+msgid "Portfolio"
+msgstr "Портфоліо"
+
+#: portfolio/models.py:57 portfolio/models.py:172
+msgid "Likes"
+msgstr "Лайки"
+
+#: portfolio/models.py:65 portfolio/models.py:180
+msgid "Choice of Editors"
+msgstr "Вибір редакції"
+
+#: portfolio/models.py:75 portfolio/models.py:99
+msgid "Album"
+msgstr "Альбом"
+
+#: portfolio/models.py:76
+msgid "Albums"
+msgstr "Альбоми"
+
+#: portfolio/models.py:117
+msgid "Device"
+msgstr "Пристрій"
+
+#: portfolio/models.py:124
+msgid "F-number (f/)"
+msgstr "Діафрагма (f/)"
+
+#: portfolio/models.py:132
+msgid "Must be entered in the format: 1/123456789."
+msgstr "Потрібно ввести у форматі: 1/123456789."
+
+#: portfolio/models.py:135
+msgid "Exposure time (s)"
+msgstr "Витримка (s)"
+
+#: portfolio/models.py:142
+msgid "Focal length (mm)"
+msgstr "Фокусна відстань (mm)"
+
+#: portfolio/models.py:147
+msgid "Photographic sensitivity (ISO)"
+msgstr "Фоточутливість (ISO)"
+
+#: portfolio/models.py:161
+msgid "Uploaded at"
+msgstr "Завантажено в"
+
+#: portfolio/models.py:190
+msgid "Photo"
+msgstr "Фото"
+
+#: portfolio/models.py:191
+msgid "Photos"
+msgstr "Фотографії"
+
+#: portfolio/views.py:119
+msgid "You already liked this album!"
+msgstr "Вам уже сподобався цей альбом!"
+
+#: portfolio/views.py:131
+msgid "You do not like this album!"
+msgstr "Вам не подобається цей альбом!"
+
+#: portfolio/views.py:270
+msgid "You already liked this photo!"
+msgstr "Вам вже сподобалося це фото!"
+
+#: portfolio/views.py:282
+msgid "You do not like this photo!"
+msgstr "Вам не подобається це фото!"
+
+#: reviews/apps.py:8 reviews/models.py:47
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: reviews/choices.py:6
+msgid "5 stars"
+msgstr "5 зірок"
+
+#: reviews/choices.py:7
+msgid "4 stars"
+msgstr "4 зірки"
+
+#: reviews/choices.py:8
+msgid "3 stars"
+msgstr "3 зірки"
+
+#: reviews/choices.py:9
+msgid "2 stars"
+msgstr "2 зірки"
+
+#: reviews/choices.py:10
+msgid "1 star"
+msgstr "1 зірка"
+
+#: reviews/choices.py:12
+msgid "Choose rating"
+msgstr "Оберіть рейтинг"
+
+#: reviews/models.py:46
+msgid "Review"
+msgstr "Відгук"
+
+#: reviews/serializers.py:37
+msgid "You have already left a review here."
+msgstr "Ви вже залишали відгук."
+
+#: social/choices.py:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: social/choices.py:7
+msgid "Twitter"
+msgstr "Twitter"
+
+#: social/choices.py:8
+msgid "Instagram"
+msgstr "Instagram"
+
+#: social/choices.py:9
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: social/choices.py:10
+msgid "Spotify"
+msgstr "Spotify"
+
+#: social/choices.py:11
+msgid "YouTube"
+msgstr "YouTube"
+
+#: social/choices.py:12
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: social/choices.py:13
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: social/models.py:27
+msgid "Type of Link"
+msgstr "Тип посилання"
+
+#: social/models.py:29
+msgid "URL of Link"
+msgstr "URL посилання"
+
+#: social/models.py:38
+msgid "Social Link"
+msgstr "Соціальне посилання"
+
+#: social/models.py:39
+msgid "Social Links"
+msgstr "Соціальні посилання"
+
+#: social/models.py:55
+msgid "Follower"
+msgstr "Передплатник"
+
+#: social/models.py:71
+msgid "Follow object"
+msgstr "Об'єкт Follow"
+
+#: social/models.py:72
+msgid "Follow objects"
+msgstr "Об'єкти Follow"
+
+#: social/models.py:107
+msgid "Favorite"
+msgstr "Вибране"
+
+#: social/models.py:108
+msgid "Favorites"
+msgstr "Вибрані"
+
+#: social/views.py:72
+msgid "You have already follow this user."
+msgstr "Ви вже передплатили цього користувача."
+
+#: social/views.py:83
+msgid "You do not follow this user."
+msgstr "Ви не підписані на цього користувача."
+
+#: social/views.py:140
+msgid "You already have this favorite."
+msgstr "Ви вже маєте цей фаворит."
+
+#: social/views.py:159
+msgid "You do not have this favorite."
+msgstr "У вас цього фаворита немає."
+
+#: support/apps.py:8
+msgid "Support"
+msgstr "Служба підтримки"
+
+#: support/choices.py:6
+msgid "General questions and inquiries"
+msgstr "Загальні питання та запити"
+
+#: support/choices.py:7
+msgid "Moderation and deletion of photos"
+msgstr "Модерація та видалення фотографій"
+
+#: support/choices.py:8
+msgid "Technical issues"
+msgstr "Технічні несправності"
+
+#: support/choices.py:9
+msgid "Partnership and advertising"
+msgstr "Партнерство та реклама"
+
+#: support/choices.py:10
+msgid "Message for the administration"
+msgstr "Повідомлення для адміністрації"
+
+#: support/models.py:20
+msgid "Subject"
+msgstr "Тема"
+
+#: support/models.py:32
+msgid "Feedback"
+msgstr "Зворотній зв'язок"
+
+#: support/models.py:33
+msgid "Feedback list"
+msgstr "Список відгуків"
+
+#: support/models.py:48
+msgid "Sender"
+msgstr "Відправник"
+
+#: support/models.py:63
+msgid "Report"
+msgstr "Звіт"
+
+#: support/models.py:64
+msgid "Report list"
+msgstr "Список звітів"
+
+#: support/serializers.py:63
+msgid "Failed to create report."
+msgstr "Не вдалось створити звіт."
+
+#: templates/admin/base.html:40
+msgid "Welcome,"
+msgstr "Ласкаво просимо,"
+
+#: templates/admin/base.html:45
+msgid "View site"
+msgstr "Переглянути сайт"
+
+#: templates/admin/base.html:50
+msgid "Documentation"
+msgstr "Документація"
+
+#: templates/admin/base.html:54
+msgid "Change password"
+msgstr "Змінити пароль"
+
+#: templates/admin/base.html:56
+msgid "Log out"
+msgstr "Вийти"
+
+#: templates/admin/base.html:66
+msgid "Home"
+msgstr "Головна"
+
+#: templates/admin/base_site.html:3
+msgid "Django site admin"
+msgstr "Адміністратор сайту Django"
+
+#: templates/admin/base_site.html:6
+msgid "Django administration"
+msgstr "Адміністрація Django"
+
+#: templates/email/activation_html.html:4
+#: templates/email/activation_text.html:4
+#: templates/email/password_reset_html.html:4
+#: templates/email/password_reset_text.html:4
+msgid "Dear User!"
+msgstr "Дорогий користувач!"
+
+#: templates/email/activation_html.html:7
+#: templates/email/activation_text.html:6
+msgid "Thank you for registering in the"
+msgstr "Дякуємо за реєстрацію в"
+
+#: templates/email/activation_html.html:10
+#: templates/email/activation_text.html:7
+msgid ""
+"You need to complete the activation in order to verify your identity. To do "
+"this, please follow the link:"
+msgstr ""
+"Вам необхідно завершити активацію, щоб підтвердити свою особу. Для цього "
+"перейдіть за посиланням:"
+
+#: templates/email/activation_html.html:11
+msgid "Confirm Email"
+msgstr "Підтвердіть адресу електронної пошти"
+
+#: templates/email/activation_html.html:20
+#: templates/email/activation_text.html:13
+#: templates/email/password_reset_html.html:21
+#: templates/email/password_reset_text.html:15
+msgid "This is an automatic letter, do not reply to it."
+msgstr "Це автоматичний лист, не відповідайте на нього."
+
+#: templates/email/activation_subject.txt:1
+msgid "User Activation"
+msgstr "Активація користувача"
+
+#: templates/email/password_reset_html.html:7
+#: templates/email/password_reset_text.html:6
+msgid ""
+"You are receiving this email because you requested a password reset for your "
+"user account at "
+msgstr ""
+"Ви отримали цей електронний лист, тому що запросили скидання пароля для "
+"свого облікового запису користувача на "
+
+#: templates/email/password_reset_html.html:9
+#: templates/email/password_reset_text.html:7
+msgid "Please go to the following page and choose a new password:"
+msgstr "Будь ласка, перейдіть на наступну сторінку та виберіть новий пароль:"
+
+#: templates/email/password_reset_html.html:10
+#: templates/email/password_reset_subject.txt:1
+msgid "Password Reset"
+msgstr "Скидання пароля"
+
+#: templates/email/password_reset_html.html:12
+#: templates/email/password_reset_text.html:10
+msgid "Thanks for using our site!"
+msgstr "Дякуємо за використання нашого сайту!"

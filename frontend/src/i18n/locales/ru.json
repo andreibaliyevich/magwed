@@ -1,0 +1,532 @@
+{
+    "seo_meta": {
+        "home": {
+            "title": "Главная",
+            "description": "Главная",
+            "keywords": "Главная"
+        },
+        "about": {
+            "title": "О нас",
+            "description": "О нас",
+            "keywords": "О, нас"
+        },
+        "feedback": {
+            "title": "Обратная связь",
+            "description": "Обратная связь",
+            "keywords": "Обратная, связь"
+        },
+        "article_list": {
+            "title": "Статьи Блог",
+            "description": "Статьи Блог",
+            "keywords": "Статьи, Блог"
+        },
+        "organizer_list": {
+            "title": "Организаторы",
+            "description": "Организаторы",
+            "keywords": "Организаторы"
+        },
+        "album_list": {
+            "title": "Альбомы",
+            "description": "Альбомы",
+            "keywords": "Альбомы"
+        },
+        "photo_list": {
+            "title": "Фотографии",
+            "description": "Фотографии",
+            "keywords": "Фотографии"
+        },
+        "login": {
+            "title": "Авторизация"
+        },
+        "registration": {
+            "title": "Регистрация"
+        },
+        "activation": {
+            "title": "Активация"
+        },
+        "password_reset": {
+            "title": "Сброс пароля"
+        },
+        "password_reset_confirm": {
+            "title": "Подтверждение сброса пароля"
+        },
+        "profile": {
+            "title": "Настройки профиля"
+        },
+        "profile_delete": {
+            "title": "Удаление профиля"
+        },
+        "password_change": {
+            "title": "Изменение пароля"
+        },
+        "social_links": {
+            "title": "Социальные ссылки"
+        },
+        "portfolio": {
+            "title": "Портфолио"
+        },
+        "portfolio_album_list": {
+            "title": "Альбомы - Портфолио"
+        },
+        "portfolio_album_detail": {
+            "title": "Редактирование альбома - Портфолио"
+        },
+        "portfolio_photo_list": {
+            "title": "Фотографии - Портфолио"
+        },
+        "messenger": {
+            "title": "Мессенджер"
+        },
+        "followers": {
+            "title": "Подписчики"
+        },
+        "following": {
+            "title": "Подписки"
+        },
+        "favorites": {
+            "title": "Избранное"
+        },
+        "not_found": {
+            "title": "Страница не найдена"
+        }
+    },
+    "countries": {
+        "BY": "Беларусь",
+        "RU": "Россия",
+        "UA": "Украина"
+    },
+    "cities": {
+        "Brest-BY": "Брест",
+        "Minsk-BY": "Минск",
+        "Moscow-RU": "Москва",
+        "Saint-Petersburg-RU": "Санкт-Петербург",
+        "Kyiv-UA": "Киев",
+        "Odesa-UA": "Одесса"
+    },
+    "languages": {
+        "be": "Белорусский",
+        "en": "Английский",
+        "fr": "Французский",
+        "de": "Немецкий",
+        "pl": "Польский",
+        "pt": "Португальский",
+        "ru": "Русский",
+        "uk": "Украинский"
+    },
+    "currencies": {
+        "USD": "USD Доллар США",
+        "EUR": "EUR Евро",
+        "RUB": "RUB Российский рубль",
+        "BYN": "BYN Белорусский рубль",
+        "UAH": "UAH Украинская гривна"
+    },
+    "roles": {
+        "1": "Фотограф",
+        "2": "Видеооператор",
+        "3": "Ведущий",
+        "4": "Музыкант",
+        "5": "Диджей",
+        "6": "Агентство",
+        "7": "Салон",
+        "8": "Кондитерская",
+        "9": "Декоратор",
+        "10": "Визажист",
+        "11": "Парикмахер"
+    },
+    "plural_roles": {
+        "1": "Фотографы",
+        "2": "Видеооператоры",
+        "3": "Ведущие",
+        "4": "Музыканты",
+        "5": "Диджеи",
+        "6": "Агентства",
+        "7": "Салоны",
+        "8": "Кондитерские",
+        "9": "Декораторы",
+        "10": "Визажисты",
+        "11": "Парикмахеры"
+    },
+    "category_choices": {
+        "design": "Дизайн",
+        "fashion": "Мода",
+        "inspiration": "Вдохновение",
+        "journey": "Путешествие",
+        "lifestyle": "Стиль жизни",
+        "photography": "Фотография",
+        "technology": "Технологии",
+        "wedding": "Свадьба"
+    },
+    "nav": {
+        "menu": "Меню",
+        "organizers": "Организаторы",
+        "photos": "Фотографии",
+        "popular_photos": "Популярные фото",
+        "fresh_photos": "Свежие фото",
+        "editors_choice": "Выбор редакции",
+        "photo_albums": "Фотоальбомы",
+        "awards": "Награды",
+        "blog": "Блог"
+    },
+    "search": {
+        "search1": "Поиск",
+        "search2": "Поиск...",
+        "searching": "Идет поиск...",
+        "results_will_here": "Результаты вашего поиска появятся здесь",
+        "no_more_results": "Результатов больше нет!",
+        "no_results_found": "Результатов не найдено"
+    },
+    "footer": {
+        "rules": "Правила",
+        "advertising": "Реклама",
+        "our_logos": "Наши Логотипы",
+        "more_about_magwed": "Подробнее о MAGWED",
+        "analytics": "Аналитика",
+        "career_at_magwed": "Карьера в MAGWED",
+        "terms_of_use": "Условия использования",
+        "privacy_policy": "Политика конфиденциальности",
+        "advertising_and_promotion": "Реклама и продвижение"
+    },
+    "feedback": {
+        "feedback": "Обратная связь",
+        "message1": "Дайте нам знать о ваших мыслях или предложениях, и мы свяжемся с вами как можно скорее.",
+        "status201": "Ваш отзыв был отправлен!",
+        "subject_options": {
+            "1": "Общие вопросы и запросы",
+            "2": "Модерация и удаление фотографий",
+            "3": "Технические неисправности",
+            "4": "Партнерство и реклама",
+            "5": "Сообщение для администрации"
+        },
+        "subject": "Тема",
+        "email": "Адрес электронной почты",
+        "comment": "Комментарий",
+        "message2": "Нажимая на кнопку, вы подтверждаете, что принимаете обработку персональных данных."
+    },
+    "auth": {
+        "log_in": "Войти",
+        "register": "Зарегистрироваться",
+        "login": {
+            "login": "Авторизация",
+            "have_account": "У вас нет аккаунта?",
+            "username_email": "Логин или Email",
+            "forgot_your_password": "Забыли свой пароль?"
+        },
+        "registration": {
+            "registration": "Регистрация",
+            "have_account": "У вас уже есть аккаунт?",
+            "username": "Логин",
+            "email": "Электронная почта",
+            "password2": "Подтвердите пароль",
+            "user_type": "Тип пользователя",
+            "customer": "Клиент",
+            "organizer": "Организатор",
+            "name": "Имя",
+            "success1": "Вы успешно зарегистрировались!",
+            "success2": "Пожалуйста, проверьте свою электронную почту.",
+            "success3": "Вам отправлено электронное письмо со ссылкой, по которой необходимо перейти для активации учетной записи.",
+            "help": "Нажимая «Зарегистрироваться», вы соглашаетесь с условиями использования."
+        },
+        "activation": {
+            "activation": "Активация",
+            "success1": "Активация прошла успешно!",
+            "success2": "Активация учетной записи успешно завершена.",
+            "success3": "Вы можете войти, используя свои учетные данные.",
+            "error": "Ошибка активации!"
+        },
+        "password": {
+            "password": "Пароль",
+            "reset_password": "Сбросить пароль",
+            "new_password": "Новый пароль",
+            "new_password2": "Подтверждение нового пароля",
+            "advice1": "Ваш пароль не может быть слишком похож на другую вашу личную информацию.",
+            "advice2": "Ваш пароль должен содержать не менее 8 символов.",
+            "advice3": "Ваш пароль не может быть широко используемым паролем.",
+            "advice4": "Ваш пароль не может быть полностью числовым."
+        },
+        "passwordreset": {
+            "password_reset": "Сброс пароля",
+            "help": "Измените свой пароль в три простых шага. Это поможет сохранить ваш новый пароль в безопасности.",
+            "step1": "Заполните ваш адрес электронной почты ниже.",
+            "step2": "Мы вышлем вам временную ссылку.",
+            "step3": "Перейдите по ссылке, чтобы изменить свой пароль.",
+            "email": "Введите ваш адрес электронной почты",
+            "back_to_login": "Вернуться на страницу авторизации",
+            "success1": "Сброс пароля выполнен!",
+            "success2": "Пожалуйста, проверьте свою электронную почту.",
+            "success3": "Вам отправлено электронное письмо со ссылкой, по которой необходимо перейти для установки нового пароля."
+        },
+        "passwordresetconfirm": {
+            "password_reset_confirm": "Подтверждение сброса пароля",
+            "confirm_password_reset": "Подтвердить сброс пароля",
+            "success1": "Сброс пароля завершен!",
+            "success2": "Установлен новый пароль.",
+            "success3": "Вы можете войти, используя новый пароль.",
+            "error": "Ошибка сброса пароля!"
+        },
+        "log_out": "Выйти",
+        "settings_menu": "Меню настроек",
+        "settings": "Настройки",
+        "sociallinks": {
+            "social_links": "Социальные ссылки",
+            "add_link": "Добавить ссылку",
+            "adding_a_link": "Добавление ссылки",
+            "changing_the_link": "Изменение ссылки",
+            "type_of_link": "Тип ссылки",
+            "url_of_link": "URL ссылки",
+            "do_not_have_social_links": "У вас нет указанных социальных ссылок.",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "linkedin": "LinkedIn",
+            "spotify": "Spotify",
+            "youtube": "YouTube",
+            "soundcloud": "SoundCloud",
+            "pinterest": "Pinterest"
+        },
+        "passwordchange": {
+            "password_change": "Изменение пароля",
+            "change_password": "Изменить пароль",
+            "current_password": "Текущий пароль",
+            "success": "Ваш пароль был успешно изменен."
+        },
+        "profile_delete": {
+            "profile_delete": "Удаление профиля",
+            "advice1": "Вся информация, связанная с вашей учетной записью, также будет удалена.",
+            "advice2": "Как только вы удалите свою учетную запись, пути назад уже не будет. Пожалуйста, будьте уверены.",
+            "password_confirmation": "Подтверждение пароля",
+            "delete_profile": "Удалить профиль"
+        }
+    },
+    "user": {
+        "online": "В сети",
+        "last_visit": "Последнее посещение",
+        "profile": "Профиль",
+        "view_profile": "Просмотреть профиль",
+        "profile_settings": "Настройки профиля",
+        "edit_profile": "Редактировать профиль",
+        "joined_on": "Присоединился",
+        "avatar_updated_successfully": "Аватар успешно обновлен!",
+        "avatar_removed_successfully": "Аватар успешно удален!",
+        "cover_updated_successfully": "Обложка успешно обновлена!",
+        "cover_removed_successfully": "Обложка успешно удалена!",
+        "update_avatar": "Обновить аватар",
+        "updating_avatar": "Обновление аватара",
+        "remove_avatar": "Удалить аватар",
+        "you_want_remove_avatar": "Вы уверены, что хотите удалить свой текущий аватар?",
+        "avatar_will_be_set_default": "Ваш аватар будет установлен по умолчанию.",
+        "loading_cover": "Загрузка обложки...",
+        "update_cover": "Обновить обложку",
+        "updating_cover": "Обновление обложки",
+        "remove_cover": "Удалить обложку",
+        "you_want_remove_cover": "Вы уверены, что хотите удалить текущую обложку?",
+        "cover_will_be_set_default": "Ваша обложка будет установлена по умолчанию.",
+        "name": "Имя",
+        "country": "Страна",
+        "city": "Город",
+        "phone": "Телефон",
+        "date_of_wedding": "Дата свадьбы",
+        "roles": "Роли",
+        "description": "Описание",
+        "countries": "Страны",
+        "cities": "Города",
+        "languages": "Языки",
+        "cost_work": "Стоимость работы",
+        "number_hours": "Количество часов",
+        "website": "Веб-сайт",
+        "profile_url": "URL профиля",
+        "update_profile": "Обновить профиль"
+    },
+    "messenger": {
+        "messenger": "Мессенджер",
+        "chats": "Чаты",
+        "chat_list": "Список чатов",
+        "create_chat": "Создать чат",
+        "creating_chat": "Создание чата",
+        "dialog": "Диалог",
+        "group": "Группа",
+        "view_group_detail": "Просмотр сведений о группе",
+        "group_chat_details": "Подробности группового чата",
+        "member_count": "0 участников | 1 участник | {n} участника | {n} участников",
+        "members": "Участники",
+        "member_list_empty": "Список участников пуст!",
+        "group_name": "Название группы",
+        "choose_image": "Выбрать изображение",
+        "chosen_image": "Выбранное изображение",
+        "no_chats": "У вас нет чатов!",
+        "no_messages": "Нет сообщений!",
+        "select_chat": "Выберите чат",
+        "write": "Написать",
+        "new_message": "Новое сообщение",
+        "content": "Содержание",
+        "type_message": "Введите сообщение...",
+        "delete_chat": "Удалить чат",
+        "delete_and_leave_group": "Удалить и покинуть группу",
+        "leave_group": "Покинуть группу",
+        "you_want_remove_chat": "Вы уверены, что хотите удалить этот чат?",
+        "chat_messages_will_lost": "Все сообщения чата будут потеряны.",
+        "you_want_leave_chat": "Вы уверены, что хотите покинуть этот чат?",
+        "you_will_lose_access_chat_messages": "Вы потеряете доступ к сообщениям чата.",
+        "images": "0 изображений | 1 изображение | {n} изображения | {n} изображений",
+        "files": "0 файлов | 1 файл | {n} файла | {n} файлов"
+    },
+    "follow": {
+        "follow": "Подписаться",
+        "unfollow": "Отписаться",
+        "followers": "Подписчики",
+        "following": "Подписки",
+        "no_followers": "У вас нет подписчиков!",
+        "no_following": "У вас нет подписок!",
+        "no_followers_and_following": "У Вас нет подписчиков и подписок!"
+    },
+    "favorites": {
+        "favorites": "Избранное",
+        "all": "Все",
+        "articles": "Статьи",
+        "albums": "Альбомы",
+        "photos": "Фотографии",
+        "no_favorites": "Список избранного пуст!",
+        "add_to_favourites": "Добавить в избранное",
+        "remove_from_favourites": "Удалить из избранного"
+    },
+    "comments": {
+        "comments": "Комментарии",
+        "add_comment": "Добавьте комментарий...",
+        "updating_comment": "Обновление комментария",
+        "content": "Содержание",
+        "you_want_remove_comment": "Вы уверены, что хотите удалить свой комментарий?",
+        "you_can_update_this_comment": "Вы можете обновить этот комментарий.",
+        "need_log_in": "Чтобы оставить комментарий, вам необходимо авторизоваться!",
+        "no_comments_yet": "Комментариев пока нет!"
+    },
+    "reviews": {
+        "reviews": "Отзывы",
+        "no_reviews_yet": "Отзывов пока нет!",
+        "write_review": "Написать отзыв",
+        "updating_review": "Обновление отзыва",
+        "rating": "Рейтинг",
+        "rating_options": "0 звезд | 1 звезда | {n} звезды | {n} звезд",
+        "comment": "Комментарий",
+        "you_want_remove_review": "Вы уверены, что хотите удалить свой отзыв?",
+        "organizer_rating_will_be_updated": "Рейтинг организатора больше не будет учитывать ваш отзыв.",
+        "need_log_in": "Чтобы оставить отзыв, вам необходимо авторизоваться!"
+    },
+    "notifications": {
+        "notifications": "Уведомления",
+        "clear_all": "Очистить все",
+        "no_notifications": "Уведомлений нет!",
+        "no_more_notifications": "Нет больше уведомлений!",
+        "follow": "{user_name} подписался на вас.",
+        "article": "{user_name} опубликовал новую статью.",
+        "album": "{user_name} создал новый альбом “{album_title}”.",
+        "photo": "{user_name} загрузил новое фото.",
+        "photo_title": "{user_name} загрузил новое фото “{photo_title}”.",
+        "like_album": "{user_name} понравился ваш альбом “{album_title}”.",
+        "like_photo": "{user_name} понравилось ваше фото.",
+        "like_photo_title": "{user_name} понравилось ваше фото “{photo_title}”.",
+        "comment_article": "{user_name} прокомментировал вашу статью: {content}",
+        "comment_album": "{user_name} прокомментировал ваш альбом “{album_title}”: {content}",
+        "comment_photo": "{user_name} прокомментировал вашу фотографию: {content}",
+        "comment_photo_title": "{user_name} прокомментировал вашу фотографию “{photo_title}”: {content}",
+        "comment_comment_article": "{user_name} прокомментировал ваш комментарий под статьей: {content}",
+        "comment_comment_album": "{user_name} прокомментировал ваш комментарий под альбомом “{album_title}”: {content}",
+        "comment_comment_photo": "{user_name} прокомментировал ваш комментарий под фотографией: {content}",
+        "comment_comment_photo_title": "{user_name} прокомментировал ваш комментарий под фотографией “{photo_title}”: {content}",
+        "review": "{user_name} оставил вам отзыв",
+        "message": "{user_name} отправил вам сообщение"
+    },
+    "organizers": {
+        "organizers": "Организаторы",
+        "all": "Все",
+        "filters": "Фильтры",
+        "per_hour": "в час",
+        "min_number_hours": "минимум 0 часов | минимум 1 час | минимум {n} часа | минимум {n} часов",
+        "no_more_organizers": "Нет больше организаторов!",
+        "no_organizers_available": "Нет доступных организаторов!"
+    },
+    "portfolio": {
+        "portfolio": "Портфолио",
+        "album": "Альбом",
+        "albums": "Альбомы",
+        "photos": "Фотографии",
+        "photo_albums": "Фотоальбомы",
+        "popular_albums": "Популярные альбомы",
+        "popular_photos": "Популярные фото",
+        "fresh_albums": "Свежие альбомы",
+        "fresh_photos": "Свежие фото",
+        "editors_choice": "Выбор редакции",
+        "view_albums": "Посмотреть альбомы",
+        "view_photos": "Посмотреть фотографии",
+        "no_albums": "Нет альбомов!",
+        "no_photos": "Нет фотографий!",
+        "no_more_albums": "Альбомов больше нет!",
+        "no_more_photos": "Фотографий больше нет!",
+        "create_album": "Создать альбом",
+        "drag_and_drop_image": "Перетащите сюда одно или несколько изображений для загрузки или нажмите",
+        "upload_photos": "Загрузить фотографии",
+        "creating_album": "Создание альбома",
+        "uploading_photos": "Загрузка фотографий...",
+        "choose_image": "Выбрать изображение",
+        "update_image": "Обновить изображение",
+        "uploading_image": "Загрузка изображения...",
+        "image_updated_successfully": "Изображение успешно обновлено!",
+        "title": "Название",
+        "description": "Описание",
+        "tags": "Теги",
+        "device": "Устройство",
+        "f_number": "Диафрагма (f/)",
+        "exposure_time": "Выдержка (s)",
+        "focal_length": "Фокусное расстояние (mm)",
+        "photographic_sensitivity": "Фото-чувствительность (ISO)",
+        "created": "Создан",
+        "created_at": "Создан в",
+        "uploaded": "Загружено",
+        "uploaded_at": "Загружено в",
+        "view_count": "Количество просмотров",
+        "likes": "Лайки",
+        "rating": "Рейтинг",
+        "you_want_remove_album": "Вы уверены, что хотите удалить этот альбом?",
+        "album_information_will_lost": "Вся информация, связанная с этим альбомом, будет потеряна.",
+        "you_want_remove_photo": "Вы уверены, что хотите удалить это фото?",
+        "photo_information_will_lost": "Вся информация, связанная с этой фотографией, будет потеряна."
+    },
+    "blog": {
+        "blog": "Блог",
+        "articles": "Статьи",
+        "no_articles": "Нет статей!",
+        "no_more_articles": "Больше нет статей!",
+        "filters": "Фильтры",
+        "categories": "Категории",
+        "years": "Года",
+        "author": "Автор"
+    },
+    "report": {
+        "report": "Пожаловаться",
+        "new_report": "Новый отчет",
+        "comment": "Комментарий"
+    },
+    "btn": {
+        "add": "Добавить",
+        "create": "Создать",
+        "update": "Обновить",
+        "edit": "Редактировать",
+        "delete": "Удалить",
+        "loading": "Загрузка...",
+        "reply": "Ответить",
+        "reset": "Сбросить",
+        "show": "Показать",
+        "send": "Отправить",
+        "yes_i_am_sure": "Да, я уверен",
+        "no_cancel": "Нет, отменить",
+        "cancel": "Отмена",
+        "close": "Закрыть"
+    },
+    "form_help": {
+        "no_options_available": "Нет доступных вариантов",
+        "input_img": "Загрузите изображение в формате JPG или PNG. Требуемый минимальный размер {width} x {height}.",
+        "cost_work": "Пожалуйста, введите в долларах США ($)"
+    },
+    "errors": {
+        "page_not_found": "Страница не найдена (404)",
+        "chat_not_found": "Чат не найден (404)"
+    }
+}

@@ -1,0 +1,13 @@
+{% load i18n %}
+
+
+{% translate 'Dear User!' %}
+
+{% translate 'Thank you for registering in the' %} {{ SITE_NAME }} ({{ SITE_HOST }}).
+{% translate 'You need to complete the activation in order to verify your identity. To do this, please follow the link:' %}
+{{ SITE_HOST }}/{{ LANG_CODE }}/activation/{{ uid }}/{{ token }}
+
+
+Copyright &copy; {% now "Y" %} {{ SITE_NAME }} ({{ SITE_HOST }})
+
+{% translate 'This is an automatic letter, do not reply to it.' %}

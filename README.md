@@ -1,0 +1,2 @@
+# magwed
+ Magazine wedding

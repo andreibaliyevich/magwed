@@ -1,0 +1,532 @@
+{
+    "seo_meta": {
+        "home": {
+            "title": "Головна",
+            "description": "Головна",
+            "keywords": "Головна"
+        },
+        "about": {
+            "title": "Про нас",
+            "description": "Про нас",
+            "keywords": "Про, нас"
+        },
+        "feedback": {
+            "title": "Зворотній зв'язок",
+            "description": "Зворотній зв'язок",
+            "keywords": "Зворотній, зв'язок"
+        },
+        "article_list": {
+            "title": "Статті Блог",
+            "description": "Статті Блог",
+            "keywords": "Статті, Блог"
+        },
+        "organizer_list": {
+            "title": "Організатори",
+            "description": "Організатори",
+            "keywords": "Організатори"
+        },
+        "album_list": {
+            "title": "Альбоми",
+            "description": "Альбоми",
+            "keywords": "Альбоми"
+        },
+        "photo_list": {
+            "title": "Фотографії",
+            "description": "Фотографії",
+            "keywords": "Фотографії"
+        },
+        "login": {
+            "title": "Авторизація"
+        },
+        "registration": {
+            "title": "Реєстрація"
+        },
+        "activation": {
+            "title": "Активація"
+        },
+        "password_reset": {
+            "title": "Скидання пароля"
+        },
+        "password_reset_confirm": {
+            "title": "Підтвердження скидання пароля"
+        },
+        "profile": {
+            "title": "Налаштування профілю"
+        },
+        "profile_delete": {
+            "title": "Видалення профілю"
+        },
+        "password_change": {
+            "title": "Зміна пароля"
+        },
+        "social_links": {
+            "title": "Соціальні посилання"
+        },
+        "portfolio": {
+            "title": "Портфоліо"
+        },
+        "portfolio_album_list": {
+            "title": "Альбоми - Портфоліо"
+        },
+        "portfolio_album_detail": {
+            "title": "Редагування альбому - Портфоліо"
+        },
+        "portfolio_photo_list": {
+            "title": "Фотографії - Портфоліо"
+        },
+        "messenger": {
+            "title": "Месенджер"
+        },
+        "followers": {
+            "title": "Підписувачі"
+        },
+        "following": {
+            "title": "Підписки"
+        },
+        "favorites": {
+            "title": "Вибране"
+        },
+        "not_found": {
+            "title": "Сторінку не знайдено"
+        }
+    },
+    "countries": {
+        "BY": "Білорусь",
+        "RU": "Росія",
+        "UA": "Україна"
+    },
+    "cities": {
+        "Brest-BY": "Брест",
+        "Minsk-BY": "Мінськ",
+        "Moscow-RU": "Москва",
+        "Saint-Petersburg-RU": "Санкт-Петербург",
+        "Kyiv-UA": "Київ",
+        "Odesa-UA": "Одеса"
+    },
+    "languages": {
+        "be": "Білоруська",
+        "en": "Англійська",
+        "fr": "Французька",
+        "de": "Німецька",
+        "pl": "Польська",
+        "pt": "Португальська",
+        "ru": "Російська",
+        "uk": "Українська"
+    },
+    "currencies": {
+        "USD": "USD Долар США",
+        "EUR": "EUR Євро",
+        "RUB": "RUB Російський рубль",
+        "BYN": "BYN Білоруський рубль",
+        "UAH": "UAH Гривня"
+    },
+    "roles": {
+        "1": "Фотограф",
+        "2": "Відеооператор",
+        "3": "Провідний",
+        "4": "Музикант",
+        "5": "Діджей",
+        "6": "Агентство",
+        "7": "Салон",
+        "8": "Кондитерська",
+        "9": "Декоратор",
+        "10": "Візажист",
+        "11": "Перукар"
+    },
+    "plural_roles": {
+        "1": "Фотографи",
+        "2": "Відеооператори",
+        "3": "Ведучі",
+        "4": "Музиканти",
+        "5": "Діджеї",
+        "6": "Агентства",
+        "7": "Салони",
+        "8": "Кондитерські",
+        "9": "Декоратори",
+        "10": "Візажисти",
+        "11": "Перукарі"
+    },
+    "category_choices": {
+        "design": "Дизайн",
+        "fashion": "Мода",
+        "inspiration": "Натхнення",
+        "journey": "Подорож",
+        "lifestyle": "Стиль життя",
+        "photography": "Світлина",
+        "technology": "Технології",
+        "wedding": "Весілля"
+    },
+    "nav": {
+        "menu": "Меню",
+        "organizers": "Організатори",
+        "photos": "Фотографії",
+        "popular_photos": "Популярні фото",
+        "fresh_photos": "Свіжі фото",
+        "editors_choice": "Вибір редакції",
+        "photo_albums": "Фотоальбоми",
+        "awards": "Нагороди",
+        "blog": "Блог"
+    },
+    "search": {
+        "search1": "Пошук",
+        "search2": "Пошук...",
+        "searching": "Йде пошук...",
+        "results_will_here": "Результати вашого пошуку з'являться тут",
+        "no_more_results": "Результатів більше нема!",
+        "no_results_found": "Результатів не знайдено"
+    },
+    "footer": {
+        "rules": "Правила",
+        "advertising": "Реклама",
+        "our_logos": "Наші Логотипи",
+        "more_about_magwed": "Докладніше про MAGWED",
+        "analytics": "Аналітика",
+        "career_at_magwed": "Кар'єра в MAGWED",
+        "terms_of_use": "Умови використання",
+        "privacy_policy": "Політика конфіденційності",
+        "advertising_and_promotion": "Реклама та просування"
+    },
+    "feedback": {
+        "feedback": "Зворотній зв'язок",
+        "message1": "Дайте нам знати про ваші думки чи пропозиції, і ми зв'яжемося з вами якнайшвидше.",
+        "status201": "Ваш відгук було надіслано!",
+        "subject_options": {
+            "1": "Загальні питання та запити",
+            "2": "Модерація та видалення фотографій",
+            "3": "Технічні несправності",
+            "4": "Партнерство та реклама",
+            "5": "Повідомлення для адміністрації"
+        },
+        "subject": "Тема",
+        "email": "Адреса електронної пошти",
+        "comment": "Коментарій",
+        "message2": "Натискаючи кнопку, ви підтверджуєте, що приймаєте обробку персональних даних."
+    },
+    "auth": {
+        "log_in": "Увійти",
+        "register": "Зареєструватися",
+        "login": {
+            "login": "Авторизація",
+            "have_account": "У вас немає облікового запису?",
+            "username_email": "Логін або Email",
+            "forgot_your_password": "Забули свій пароль?"
+        },
+        "registration": {
+            "registration": "Реєстрація",
+            "have_account": "У вас вже є обліковий запис?",
+            "username": "Логін",
+            "email": "Електронна пошта",
+            "password2": "Підтвердьте пароль",
+            "user_type": "Тип користувача",
+            "customer": "Клієнт",
+            "organizer": "Організатор",
+            "name": "Ім'я",
+            "success1": "Ви успішно зареєструвалися!",
+            "success2": "Будь ласка, перевірте свою електронну пошту.",
+            "success3": "Вам надіслано електронний лист із посиланням, на яке потрібно натиснути, щоб активувати обліковий запис.",
+            "help": "Натиснувши «Зареєструватися», ви погоджуєтеся з умовами використання."
+        },
+        "activation": {
+            "activation": "Активація",
+            "success1": "Активація пройшла успішно!",
+            "success2": "Активація облікового запису успішно завершена.",
+            "success3": "Ви можете увійти, використовуючи свої облікові дані.",
+            "error": "Помилка активації!"
+        },
+        "password": {
+            "password": "Пароль",
+            "reset_password": "Скинути пароль",
+            "new_password": "Новий пароль",
+            "new_password2": "Підтвердження нового пароля",
+            "advice1": "Ваш пароль не може бути схожим на іншу особисту інформацію.",
+            "advice2": "Ваш пароль має містити щонайменше 8 символів.",
+            "advice3": "Ваш пароль не може бути часто використовуваним паролем.",
+            "advice4": "Ваш пароль не може бути повністю цифровим."
+        },
+        "passwordreset": {
+            "password_reset": "Скидання пароля",
+            "help": "Змініть пароль за три простих кроки. Це допомагає захистити новий пароль.",
+            "step1": "Заповніть свою електронну адресу нижче.",
+            "step2": "Ми надішлемо вам електронною поштою тимчасове посилання.",
+            "step3": "Перейдіть за посиланням, щоб змінити свій пароль.",
+            "email": "Введіть адресу вашої електронної пошти",
+            "back_to_login": "Повернутися на сторінку авторизації",
+            "success1": "Скидання пароля виконано!",
+            "success2": "Будь ласка, перевірте свою електронну пошту.",
+            "success3": "Вам надіслано електронний лист із посиланням, за яким потрібно перейти, щоб встановити новий пароль."
+        },
+        "passwordresetconfirm": {
+            "password_reset_confirm": "Підтвердження скидання пароля",
+            "confirm_password_reset": "Підтвердьте скидання пароля",
+            "success1": "Скидання пароля завершено!",
+            "success2": "Встановлено новий пароль.",
+            "success3": "Ви можете ввійти, використовуючи новий пароль.",
+            "error": "Помилка скидання пароля!"
+        },
+        "log_out": "Вийти",
+        "settings_menu": "Меню налаштувань",
+        "settings": "Налаштування",
+        "sociallinks": {
+            "social_links": "Соціальні посилання",
+            "add_link": "Додати посилання",
+            "adding_a_link": "Додавання посилання",
+            "changing_the_link": "Зміна посилання",
+            "type_of_link": "Тип посилання",
+            "url_of_link": "URL посилання",
+            "do_not_have_social_links": "У вас немає вказаних соціальних посилань.",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "linkedin": "LinkedIn",
+            "spotify": "Spotify",
+            "youtube": "YouTube",
+            "soundcloud": "SoundCloud",
+            "pinterest": "Pinterest"
+        },
+        "passwordchange": {
+            "password_change": "Зміна пароля",
+            "change_password": "Змінити пароль",
+            "current_password": "Поточний пароль",
+            "success": "Ваш пароль було успішно змінено."
+        },
+        "profile_delete": {
+            "profile_delete": "Видалення профілю",
+            "advice1": "Уся інформація, пов'язана з вашим обліковим записом, також буде видалена.",
+            "advice2": "Як тільки ви видалите свій обліковий запис, шляху назад не буде. Будь ласка, будьте певні.",
+            "password_confirmation": "Підтвердження пароля",
+            "delete_profile": "Видалити профіль"
+        }
+    },
+    "user": {
+        "online": "В мережі",
+        "last_visit": "Останнє відвідування",
+        "profile": "Профіль",
+        "view_profile": "Переглянути профіль",
+        "profile_settings": "Налаштування профілю",
+        "edit_profile": "Редагувати профіль",
+        "joined_on": "Приєднався",
+        "avatar_updated_successfully": "Аватар успішно оновлено!",
+        "avatar_removed_successfully": "Аватар успішно вилучено!",
+        "cover_updated_successfully": "Обкладинка успішно оновлена!",
+        "cover_removed_successfully": "Обкладинка успішно видалена!",
+        "update_avatar": "Оновити аватар",
+        "updating_avatar": "Оновлення аватара",
+        "remove_avatar": "Видалити аватар",
+        "you_want_remove_avatar": "Ви впевнені, що бажаєте видалити свій поточний аватар?",
+        "avatar_will_be_set_default": "Ваш аватар буде встановлено за замовчуванням.",
+        "loading_cover": "Завантаження обкладинки...",
+        "update_cover": "Оновити обкладинку",
+        "updating_cover": "Оновлення обкладинки",
+        "remove_cover": "Видалити обкладинку",
+        "you_want_remove_cover": "Ви впевнені, що хочете видалити поточну обкладинку?",
+        "cover_will_be_set_default": "Ваша обкладинка буде встановлена за замовчуванням.",
+        "name": "Ім'я",
+        "country": "Країна",
+        "city": "Місто",
+        "phone": "Телефон",
+        "date_of_wedding": "Дата весілля",
+        "roles": "Ролі",
+        "description": "Опис",
+        "countries": "Країни",
+        "cities": "Міста",
+        "languages": "Мови",
+        "cost_work": "Вартість роботи",
+        "number_hours": "Кількість годин",
+        "website": "Веб сайт",
+        "profile_url": "URL профілю",
+        "update_profile": "Оновити профіль"
+    },
+    "messenger": {
+        "messenger": "Месенджер",
+        "chats": "Чати",
+        "chat_list": "Список чатів",
+        "create_chat": "Створити чат",
+        "creating_chat": "Створення чату",
+        "dialog": "Діалог",
+        "group": "Група",
+        "view_group_detail": "Перегляд інформації про групу",
+        "group_chat_details": "Подробиці групового чату",
+        "member_count": "0 учасників | 1 учасник | {n} учасники | {n} учасників",
+        "members": "Учасники",
+        "member_list_empty": "Список учасників порожній!",
+        "group_name": "Назва групи",
+        "choose_image": "Вибрати зображення",
+        "chosen_image": "Вибране зображення",
+        "no_chats": "У вас немає чатів!",
+        "no_messages": "Немає повідомлень!",
+        "select_chat": "Виберіть чат",
+        "write": "Написати",
+        "new_message": "Нове повідомлення",
+        "content": "Зміст",
+        "type_message": "Введіть повідомлення...",
+        "delete_chat": "Видалити чат",
+        "delete_and_leave_group": "Видалити та залишити групу",
+        "leave_group": "Залишити групу",
+        "you_want_remove_chat": "Ви впевнені, що бажаєте видалити цей чат?",
+        "chat_messages_will_lost": "Усі повідомлення чату будуть втрачені.",
+        "you_want_leave_chat": "Ви впевнені, що хочете залишити цей чат?",
+        "you_will_lose_access_chat_messages": "Ви втратите доступ до повідомлень чату.",
+        "images": "0 зображень | 1 зображення | {n} зображення | {n} зображень",
+        "files": "0 файлів | 1 файл | {n} файли | {n} файлів"
+    },
+    "follow": {
+        "follow": "Підписатися",
+        "unfollow": "Відписатися",
+        "followers": "Підписувачі",
+        "following": "Підписки",
+        "no_followers": "У вас немає передплатників!",
+        "no_following": "Ви не маєте підписок!",
+        "no_followers_and_following": "У Вас немає передплатників та підписок!"
+    },
+    "favorites": {
+        "favorites": "Вибране",
+        "all": "Все",
+        "articles": "Статті",
+        "albums": "Альбоми",
+        "photos": "Фотографії",
+        "no_favorites": "Список обраного порожній!",
+        "add_to_favourites": "Додати в обране",
+        "remove_from_favourites": "Видалити з вибраного"
+    },
+    "comments": {
+        "comments": "Коментарі",
+        "add_comment": "Додати коментар...",
+        "updating_comment": "Оновлення коментаря",
+        "content": "Зміст",
+        "you_want_remove_comment": "Ви впевнені, що хочете видалити свій коментар?",
+        "you_can_update_this_comment": "Ви можете оновити цей коментар.",
+        "need_log_in": "Щоб залишити коментар, вам необхідно авторизуватись!",
+        "no_comments_yet": "Коментарів поки що немає!"
+    },
+    "reviews": {
+        "reviews": "Відгуки",
+        "no_reviews_yet": "Відгуків поки що немає!",
+        "write_review": "Написати відгук",
+        "updating_review": "Оновлення відгуку",
+        "rating": "Рейтинг",
+        "rating_options": "0 зірок | 1 зірка | {n} зірки | {n} зірок",
+        "comment": "Коментарій",
+        "you_want_remove_review": "Ви впевнені, що хочете видалити свій відгук?",
+        "organizer_rating_will_be_updated": "Рейтинг організатора більше не враховуватиме ваш відгук.",
+        "need_log_in": "Щоб залишити відгук, вам необхідно авторизуватись!"
+    },
+    "notifications": {
+        "notifications": "Сповіщення",
+        "clear_all": "Очистити все",
+        "no_notifications": "Повідомлень немає!",
+        "no_more_notifications": "Немає більше повідомлень!",
+        "follow": "{user_name} підписався на вас.",
+        "article": "{user_name} опублікував нову статтю.",
+        "album": "{user_name} створив новий альбом “{album_title}”.",
+        "photo": "{user_name} завантажив нове фото.",
+        "photo_title": "{user_name} завантажив нове фото “{photo_title}”.",
+        "like_album": "{user_name} сподобався ваш альбом “{album_title}”.",
+        "like_photo": "{user_name} сподобалося ваше фото.",
+        "like_photo_title": "{user_name} сподобалося ваше фото “{photo_title}”.",
+        "comment_article": "{user_name} прокоментував вашу статтю: {content}",
+        "comment_album": "{user_name} прокоментував ваш альбом “{album_title}”: {content}",
+        "comment_photo": "{user_name} прокоментував вашу фотографію: {content}",
+        "comment_photo_title": "{user_name} прокоментував вашу фотографію “{photo_title}”: {content}",
+        "comment_comment_article": "{user_name} прокоментував ваш коментар під статтею: {content}",
+        "comment_comment_album": "{user_name} прокоментував ваш коментар під альбомом “{album_title}”: {content}",
+        "comment_comment_photo": "{user_name} прокоментував ваш коментар під фотографією: {content}",
+        "comment_comment_photo_title": "{user_name} прокоментував ваш коментар під фотографією “{photo_title}”: {content}",
+        "review": "{user_name} залишив вам відгук",
+        "message": "{user_name} надіслав вам повідомлення"
+    },
+    "organizers": {
+        "organizers": "Організатори",
+        "all": "Все",
+        "filters": "Фільтри",
+        "per_hour": "в годину",
+        "min_number_hours": "мінімум 0 годин | мінімум 1 година | мінімум {n} години | мінімум {n} годин",
+        "no_more_organizers": "Нема більше організаторів!",
+        "no_organizers_available": "Нема доступних організаторів!"
+    },
+    "portfolio": {
+        "portfolio": "Портфоліо",
+        "album": "Альбом",
+        "albums": "Альбоми",
+        "photos": "Фотографії",
+        "photo_albums": "Фотоальбоми",
+        "popular_albums": "Популярні альбоми",
+        "popular_photos": "Популярні фото",
+        "fresh_albums": "Свіжі альбоми",
+        "fresh_photos": "Свіжі фото",
+        "editors_choice": "Вибір редакції",
+        "view_albums": "Переглянути альбоми",
+        "view_photos": "Переглянути фотографії",
+        "no_albums": "Немає альбомів!",
+        "no_photos": "Немає фотографій!",
+        "no_more_albums": "Альбомів більше нема!",
+        "no_more_photos": "Фотографій більше немає!",
+        "create_album": "Створити альбом",
+        "drag_and_drop_image": "Перетягуйте сюди одне або кілька зображень для завантаження або натисніть",
+        "upload_photos": "Завантажити фотографії",
+        "creating_album": "Створення альбому",
+        "uploading_photos": "Завантаження фотографій...",
+        "choose_image": "Вибрати зображення",
+        "update_image": "Оновити зображення",
+        "uploading_image": "Завантаження зображення...",
+        "image_updated_successfully": "Зображення успішно оновлено!",
+        "title": "Назва",
+        "description": "Опис",
+        "tags": "Теги",
+        "device": "Пристрій",
+        "f_number": "Діафрагма (f/)",
+        "exposure_time": "Витримка (s)",
+        "focal_length": "Фокусна відстань (mm)",
+        "photographic_sensitivity": "Фоточутливість (ISO)",
+        "created": "Створено",
+        "created_at": "Створено в",
+        "uploaded": "Завантажено",
+        "uploaded_at": "Завантажено в",
+        "view_count": "Кількість переглядів",
+        "likes": "Лайки",
+        "rating": "Рейтинг",
+        "you_want_remove_album": "Ви впевнені, що хочете видалити цей альбом?",
+        "album_information_will_lost": "Усю інформацію, пов'язану з цим альбомом, буде втрачено.",
+        "you_want_remove_photo": "Ви впевнені, що хочете видалити це фото?",
+        "photo_information_will_lost": "Уся інформація, пов'язана з цією фотографією, буде втрачена."
+    },
+    "blog": {
+        "blog": "Блог",
+        "articles": "Статті",
+        "no_articles": "Немає статей!",
+        "no_more_articles": "Більше немає статей!",
+        "filters": "Фільтри",
+        "categories": "Категорії",
+        "years": "Року",
+        "author": "Автор"
+    },
+    "report": {
+        "report": "Поскаржитись",
+        "new_report": "Новий звіт",
+        "comment": "Коментарій"
+    },
+    "btn": {
+        "add": "Додати",
+        "create": "Створити",
+        "update": "Оновити",
+        "edit": "Редагувати",
+        "delete": "Видалити",
+        "loading": "Завантаження...",
+        "reply": "Відповісти",
+        "reset": "Скинути",
+        "show": "Показати",
+        "send": "Відправити",
+        "yes_i_am_sure": "Так, я впевнений",
+        "no_cancel": "Ні, скасувати",
+        "cancel": "Відміна",
+        "close": "Закрити"
+    },
+    "form_help": {
+        "no_options_available": "Немає доступних варіантів",
+        "input_img": "Завантажте зображення JPG або PNG. Необхідний мінімальний розмір {width} x {height}.",
+        "cost_work": "Будь ласка, введіть у доларах США ($)"
+    },
+    "errors": {
+        "page_not_found": "Сторінку не знайдено (404)",
+        "chat_not_found": "Чат не знайдено (404)"
+    }
+}

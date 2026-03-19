@@ -1,0 +1,82 @@
+::-webkit-scrollbar {
+  width: 0.5em;
+}
+::-webkit-scrollbar-track {
+  background-color: #f5f5f5;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #c0c0c0;
+  border-radius: 1em;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #e72a26;
+}
+
+main {
+  min-height: 50vh;
+}
+
+.link-facebook:hover {
+  color: #1877f2 !important;
+}
+.link-twitter:hover {
+  color: #1da1f2 !important;
+}
+.link-instagram:hover {
+  color: #e1306c !important;
+}
+.link-linkedin:hover {
+  color: #0077b5 !important;
+}
+.link-spotify:hover {
+  color: #1db954 !important;
+}
+.link-youtube:hover {
+  color: #ff0000 !important;
+}
+.link-soundcloud:hover {
+  color: #ff8800 !important;
+}
+.link-pinterest:hover {
+  color: #e60023 !important;
+}
+
+.bg-facebook {
+  background-color: #1877f2 !important;
+}
+.bg-twitter {
+  background-color: #1da1f2 !important;
+}
+.bg-instagram {
+  background-color: #e1306c !important;
+}
+.bg-linkedin {
+  background-color: #0077b5 !important;
+}
+.bg-spotify {
+  background-color: #1db954 !important;
+}
+.bg-youtube {
+  background-color: #ff0000 !important;
+}
+.bg-soundcloud {
+  background-color: #ff8800 !important;
+}
+.bg-pinterest {
+  background-color: #e60023 !important;
+}
+.bg-website {
+  background-color: #6c757d !important;
+}
+
+.hidden-visually {
+  position: absolute;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0;
+  padding: 0;
+  height: 1px;
+  width: 1px;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+}

@@ -1,0 +1,532 @@
+{
+    "seo_meta": {
+        "home": {
+            "title": "Home",
+            "description": "Home",
+            "keywords": "Home"
+        },
+        "about": {
+            "title": "About",
+            "description": "About",
+            "keywords": "About"
+        },
+        "feedback": {
+            "title": "Feedback",
+            "description": "Feedback",
+            "keywords": "Feedback"
+        },
+        "article_list": {
+            "title": "Articles Blog",
+            "description": "Articles Blog",
+            "keywords": "Articles, Blog"
+        },
+        "organizer_list": {
+            "title": "Organizers",
+            "description": "Organizers",
+            "keywords": "Organizers"
+        },
+        "album_list": {
+            "title": "Albums",
+            "description": "Albums",
+            "keywords": "Albums"
+        },
+        "photo_list": {
+            "title": "Photos",
+            "description": "Photos",
+            "keywords": "Photos"
+        },
+        "login": {
+            "title": "Login"
+        },
+        "registration": {
+            "title": "Registration"
+        },
+        "activation": {
+            "title": "Activation"
+        },
+        "password_reset": {
+            "title": "Password reset"
+        },
+        "password_reset_confirm": {
+            "title": "Password reset confirmation"
+        },
+        "profile": {
+            "title": "Profile settings"
+        },
+        "profile_delete": {
+            "title": "Profile delete"
+        },
+        "password_change": {
+            "title": "Password change"
+        },
+        "social_links": {
+            "title": "Social links"
+        },
+        "portfolio": {
+            "title": "Portfolio"
+        },
+        "portfolio_album_list": {
+            "title": "Albums - Portfolio"
+        },
+        "portfolio_album_detail": {
+            "title": "Editing album - Portfolio"
+        },
+        "portfolio_photo_list": {
+            "title": "Photos - Portfolio"
+        },
+        "messenger": {
+            "title": "Messenger"
+        },
+        "followers": {
+            "title": "Followers"
+        },
+        "following": {
+            "title": "Following"
+        },
+        "favorites": {
+            "title": "Favorites"
+        },
+        "not_found": {
+            "title": "Page not found"
+        }
+    },
+    "countries": {
+        "BY": "Belarus",
+        "RU": "Russia",
+        "UA": "Ukraine"
+    },
+    "cities": {
+        "Brest-BY": "Brest",
+        "Minsk-BY": "Minsk",
+        "Moscow-RU": "Moscow",
+        "Saint-Petersburg-RU": "Saint Petersburg",
+        "Kyiv-UA": "Kyiv",
+        "Odesa-UA": "Odesa"
+    },
+    "languages": {
+        "be": "Belarusian",
+        "en": "English",
+        "fr": "French",
+        "de": "German",
+        "pl": "Polish",
+        "pt": "Portuguese",
+        "ru": "Russian",
+        "uk": "Ukrainian"
+    },
+    "currencies": {
+        "USD": "USD United States dollar",
+        "EUR": "EUR Euro",
+        "RUB": "RUB Russian ruble",
+        "BYN": "BYN Belarusian ruble",
+        "UAH": "UAH Ukrainian hryvnia"
+    },
+    "roles": {
+        "1": "Photographer",
+        "2": "Videographer",
+        "3": "Leading",
+        "4": "Musician",
+        "5": "DJ",
+        "6": "Agency",
+        "7": "Salon",
+        "8": "Confectionery",
+        "9": "Decorator",
+        "10": "Visagiste",
+        "11": "Hairdresser"
+    },
+    "plural_roles": {
+        "1": "Photographers",
+        "2": "Videographers",
+        "3": "Leadings",
+        "4": "Musicians",
+        "5": "DJs",
+        "6": "Agencies",
+        "7": "Salons",
+        "8": "Confectioneries",
+        "9": "Decorators",
+        "10": "Visagistes",
+        "11": "Hairdressers"
+    },
+    "category_choices": {
+        "design": "Design",
+        "fashion": "Fashion",
+        "inspiration": "Inspiration",
+        "journey": "Journey",
+        "lifestyle": "Lifestyle",
+        "photography": "Photography",
+        "technology": "Technology",
+        "wedding": "Wedding"
+    },
+    "nav": {
+        "menu": "Menu",
+        "organizers": "Organizers",
+        "photos": "Photos",
+        "popular_photos": "Popular photos",
+        "fresh_photos": "Fresh photos",
+        "editors_choice": "Editor's Choice",
+        "photo_albums": "Photo albums",
+        "awards": "Awards",
+        "blog": "Blog"
+    },
+    "search": {
+        "search1": "Search",
+        "search2": "Search...",
+        "searching": "Searching...",
+        "results_will_here": "Your search results will appear here",
+        "no_more_results": "No more results!",
+        "no_results_found": "No results found"
+    },
+    "footer": {
+        "rules": "Rules",
+        "advertising": "Advertising",
+        "our_logos": "Our Logos",
+        "more_about_magwed": "More about MAGWED",
+        "analytics": "Analytics",
+        "career_at_magwed": "Career at MAGWED",
+        "terms_of_use": "Terms of Use",
+        "privacy_policy": "Privacy Policy",
+        "advertising_and_promotion": "Advertising and promotion"
+    },
+    "feedback": {
+        "feedback": "Feedback",
+        "message1": "Let us know about your thoughts or offers and we will contact you back asap.",
+        "status201": "Your feedback has been sent!",
+        "subject_options": {
+            "1": "General questions and inquiries",
+            "2": "Moderation and deletion of photos",
+            "3": "Technical issues",
+            "4": "Partnership and advertising",
+            "5": "Message for the administration"
+        },
+        "subject": "Subject",
+        "email": "Email address",
+        "comment": "Comment",
+        "message2": "By clicking on the button, you confirm that you accept the processing of personal data."
+    },
+    "auth": {
+        "log_in": "Log in",
+        "register": "Register",
+        "login": {
+            "login": "Login",
+            "have_account": "Don't have an account?",
+            "username_email": "Username or Email",
+            "forgot_your_password": "Forgot your password?"
+        },
+        "registration": {
+            "registration": "Registration",
+            "have_account": "Already have an account?",
+            "username": "Username",
+            "email": "Email",
+            "password2": "Confirm password",
+            "user_type": "User type",
+            "customer": "Customer",
+            "organizer": "Organizer",
+            "name": "Name",
+            "success1": "You have successfully registered!",
+            "success2": "Please check your email.",
+            "success3": "You have been sent an email with a link that you need to click on to activate your account.",
+            "help": "By clicking Sign up, you agree to the terms of use."
+        },
+        "activation": {
+            "activation": "Activation",
+            "success1": "Activation was successful!",
+            "success2": "Account activation completed successfully.",
+            "success3": "You can login using your credentials.",
+            "error": "Activation error!"
+        },
+        "password": {
+            "password": "Password",
+            "reset_password": "Reset password",
+            "new_password": "New password",
+            "new_password2": "New password confirmation",
+            "advice1": "Your password can’t be too similar to your other personal information.",
+            "advice2": "Your password must contain at least 8 characters.",
+            "advice3": "Your password can’t be a commonly used password.",
+            "advice4": "Your password can’t be entirely numeric."
+        },
+        "passwordreset": {
+            "password_reset": "Password reset",
+            "help": "Change your password in three easy steps. This helps to keep your new password secure.",
+            "step1": "Fill in your email address below.",
+            "step2": "We’ll email you a temporary link.",
+            "step3": "Go to the link to change your password.",
+            "email": "Enter your email address",
+            "back_to_login": "Back to Login",
+            "success1": "Password reset done!",
+            "success2": "Please check your email.",
+            "success3": "An email has been sent to you with a link to follow to set a new password."
+        },
+        "passwordresetconfirm": {
+            "password_reset_confirm": "Password reset confirmation",
+            "confirm_password_reset": "Confirm password reset",
+            "success1": "Password reset complete!",
+            "success2": "New password set.",
+            "success3": "You can sign in using the new password.",
+            "error": "Password reset error!"
+        },
+        "log_out": "Log out",
+        "settings_menu": "Settings menu",
+        "settings": "Settings",
+        "sociallinks": {
+            "social_links": "Social links",
+            "add_link": "Add link",
+            "adding_a_link": "Adding a link",
+            "changing_the_link": "Changing the link",
+            "type_of_link": "Type of Link",
+            "url_of_link": "URL of Link",
+            "do_not_have_social_links": "You don't have the specified social links.",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "linkedin": "LinkedIn",
+            "spotify": "Spotify",
+            "youtube": "YouTube",
+            "soundcloud": "SoundCloud",
+            "pinterest": "Pinterest"
+        },
+        "passwordchange": {
+            "password_change": "Password change",
+            "change_password": "Change password",
+            "current_password": "Current password",
+            "success": "Your password has been successfully changed."
+        },
+        "profile_delete": {
+            "profile_delete": "Profile delete",
+            "advice1": "All information associated with your account will also be deleted.",
+            "advice2": "Once you delete your account, there is no going back. Please be certain.",
+            "password_confirmation": "Password confirmation",
+            "delete_profile": "Delete profile"
+        }
+    },
+    "user": {
+        "online": "Online",
+        "last_visit": "Last visit",
+        "profile": "Profile",
+        "view_profile": "View profile",
+        "profile_settings": "Profile settings",
+        "edit_profile": "Edit Profile",
+        "joined_on": "Joined on",
+        "avatar_updated_successfully": "Avatar updated successfully!",
+        "avatar_removed_successfully": "Avatar removed successfully!",
+        "cover_updated_successfully": "Cover updated successfully!",
+        "cover_removed_successfully": "Cover removed successfully!",
+        "update_avatar": "Update avatar",
+        "updating_avatar": "Updating avatar",
+        "remove_avatar": "Remove avatar",
+        "you_want_remove_avatar": "Are you sure you want to delete your current avatar?",
+        "avatar_will_be_set_default": "Your avatar will be set by default.",
+        "loading_cover": "Loading cover...",
+        "update_cover": "Update cover",
+        "updating_cover": "Updating cover",
+        "remove_cover": "Remove cover",
+        "you_want_remove_cover": "Are you sure you want to delete current cover?",
+        "cover_will_be_set_default": "Your cover will be set by default.",
+        "name": "Name",
+        "country": "Country",
+        "city": "City",
+        "phone": "Phone",
+        "date_of_wedding": "Date of Wedding",
+        "roles": "Roles",
+        "description": "Description",
+        "countries": "Countries",
+        "cities": "Cities",
+        "languages": "Languages",
+        "cost_work": "Cost of work",
+        "number_hours": "Number of hours",
+        "website": "Web site",
+        "profile_url": "Profile URL",
+        "update_profile": "Update profile"
+    },
+    "messenger": {
+        "messenger": "Messenger",
+        "chats": "Chats",
+        "chat_list": "Chat list",
+        "create_chat": "Create chat",
+        "creating_chat": "Creating chat",
+        "dialog": "Dialog",
+        "group": "Group",
+        "view_group_detail": "View group detail",
+        "group_chat_details": "Group chat details",
+        "member_count": "0 members | 1 member | {n} members",
+        "members": "Members",
+        "member_list_empty": "Member list is empty!",
+        "group_name": "Group name",
+        "choose_image": "Choose image",
+        "chosen_image": "Chosen image",
+        "no_chats": "You don't have chats!",
+        "no_messages": "No messages!",
+        "select_chat": "Select a chat",
+        "write": "Write",
+        "new_message": "New message",
+        "content": "Content",
+        "type_message": "Type a message...",
+        "delete_chat": "Delete Chat",
+        "delete_and_leave_group": "Delete and Leave Group",
+        "leave_group": "Leave Group",
+        "you_want_remove_chat": "Are you sure you want to delete this chat?",
+        "chat_messages_will_lost": "All chat messages will be lost.",
+        "you_want_leave_chat": "Are you sure you want to leave this chat?",
+        "you_will_lose_access_chat_messages": "You will lose access to chat messages.",
+        "images": "0 Images | 1 Image | {n} Images",
+        "files": "0 Files | 1 File | {n} Files"
+    },
+    "follow": {
+        "follow": "Follow",
+        "unfollow": "Unfollow",
+        "followers": "Followers",
+        "following": "Following",
+        "no_followers": "You don't have any followers!",
+        "no_following": "You don't have any following!",
+        "no_followers_and_following": "You don't have any followers and following!"
+    },
+    "favorites": {
+        "favorites": "Favorites",
+        "all": "All",
+        "articles": "Articles",
+        "albums": "Albums",
+        "photos": "Photos",
+        "no_favorites": "Favorites list is empty!",
+        "add_to_favourites": "Add to favourites",
+        "remove_from_favourites": "Remove from favourites"
+    },
+    "comments": {
+        "comments": "Comments",
+        "add_comment": "Add a comment...",
+        "updating_comment": "Updating comment",
+        "content": "Content",
+        "you_want_remove_comment": "Are you sure you want to delete your comment?",
+        "you_can_update_this_comment": "You can update this comment.",
+        "need_log_in": "To leave a comment, you need to log in!",
+        "no_comments_yet": "No comments yet!"
+    },
+    "reviews": {
+        "reviews": "Reviews",
+        "no_reviews_yet": "No reviews yet!",
+        "write_review": "Write a review",
+        "updating_review": "Updating the review",
+        "rating": "Rating",
+        "rating_options": "0 stars | 1 star | {n} stars",
+        "comment": "Comment",
+        "you_want_remove_review": "Are you sure you want to delete your review?",
+        "organizer_rating_will_be_updated": "Organizer rating will no longer take into account your review.",
+        "need_log_in": "To leave a review, you need to log in!"
+    },
+    "notifications": {
+        "notifications": "Notifications",
+        "clear_all": "Clear all",
+        "no_notifications": "No notifications!",
+        "no_more_notifications": "No more notifications!",
+        "follow": "{user_name} starded following you.",
+        "article": "{user_name} has posted new article.",
+        "album": "{user_name} has created new album “{album_title}”.",
+        "photo": "{user_name} has uploaded new photo.",
+        "photo_title": "{user_name} has uploaded new photo “{photo_title}”.",
+        "like_album": "{user_name} liked your album “{album_title}”.",
+        "like_photo": "{user_name} liked your photo.",
+        "like_photo_title": "{user_name} liked your photo “{photo_title}”.",
+        "comment_article": "{user_name} commented your article: {content}",
+        "comment_album": "{user_name} commented your album “{album_title}”: {content}",
+        "comment_photo": "{user_name} commented your photo: {content}",
+        "comment_photo_title": "{user_name} commented your photo “{photo_title}”: {content}",
+        "comment_comment_article": "{user_name} commented on your comment under the article: {content}",
+        "comment_comment_album": "{user_name} commented on your comment under the album “{album_title}”: {content}",
+        "comment_comment_photo": "{user_name} commented on your comment under the photo: {content}",
+        "comment_comment_photo_title": "{user_name} commented on your comment under the photo “{photo_title}”: {content}",
+        "review": "{user_name} left you review",
+        "message": "{user_name} sent you message"
+    },
+    "organizers": {
+        "organizers": "Organizers",
+        "all": "All",
+        "filters": "Filters",
+        "per_hour": "per hour",
+        "min_number_hours": "minimum 0 hours | minimum 1 hour | minimum {n} hours",
+        "no_more_organizers": "No more organizers!",
+        "no_organizers_available": "No organizers available!"
+    },
+    "portfolio": {
+        "portfolio": "Portfolio",
+        "album": "Album",
+        "albums": "Albums",
+        "photos": "Photos",
+        "photo_albums": "Photo albums",
+        "popular_albums": "Popular albums",
+        "popular_photos": "Popular photos",
+        "fresh_albums": "Fresh albums",
+        "fresh_photos": "Fresh photos",
+        "editors_choice": "Editor's Choice",
+        "view_albums": "View albums",
+        "view_photos": "View photos",
+        "no_albums": "No albums!",
+        "no_photos": "No photos!",
+        "no_more_albums": "No more albums!",
+        "no_more_photos": "No more photos!",
+        "create_album": "Create album",
+        "drag_and_drop_image": "Drag one or more images here for upload or click",
+        "upload_photos": "Upload photos",
+        "creating_album": "Creating album",
+        "uploading_photos": "Uploading photos...",
+        "choose_image": "Choose image",
+        "update_image": "Update image",
+        "uploading_image": "Uploading image...",
+        "image_updated_successfully": "Image updated successfully!",
+        "title": "Title",
+        "description": "Description",
+        "tags": "Tags",
+        "device": "Device",
+        "f_number": "F-number (f/)",
+        "exposure_time": "Exposure time (s)",
+        "focal_length": "Focal length (mm)",
+        "photographic_sensitivity": "Photographic sensitivity (ISO)",
+        "created": "Created",
+        "created_at": "Created at",
+        "uploaded": "Uploaded",
+        "uploaded_at": "Uploaded at",
+        "view_count": "Count of views",
+        "likes": "Likes",
+        "rating": "Rating",
+        "you_want_remove_album": "Are you sure you want to delete this album?",
+        "album_information_will_lost": "All information associated with this album will be lost.",
+        "you_want_remove_photo": "Are you sure you want to delete this photo?",
+        "photo_information_will_lost": "All information associated with this photo will be lost."
+    },
+    "blog": {
+        "blog": "Blog",
+        "articles": "Articles",
+        "no_articles": "No Articles!",
+        "no_more_articles": "No more Articles!",
+        "filters": "Filters",
+        "categories": "Categories",
+        "years": "Years",
+        "author": "Author"
+    },
+    "report": {
+        "report": "Report",
+        "new_report": "New report",
+        "comment": "Comment"
+    },
+    "btn": {
+        "add": "Add",
+        "create": "Create",
+        "update": "Update",
+        "edit": "Edit",
+        "delete": "Delete",
+        "loading": "Loading...",
+        "reply": "Reply",
+        "reset": "Reset",
+        "show": "Show",
+        "send": "Send",
+        "yes_i_am_sure": "Yes, I am sure",
+        "no_cancel": "No, cancel",
+        "cancel": "Cancel",
+        "close": "Close"
+    },
+    "form_help": {
+        "no_options_available": "No options available",
+        "input_img": "Upload JPG or PNG image. Required minimum of size {width} x {height}.",
+        "cost_work": "Please enter in USD ($)"
+    },
+    "errors": {
+        "page_not_found": "Page Not Found (404)",
+        "chat_not_found": "Chat Not Found (404)"
+    }
+}
